@@ -1,0 +1,2 @@
+sambir ternopil 1 8000
+lviv krym 2 100000
